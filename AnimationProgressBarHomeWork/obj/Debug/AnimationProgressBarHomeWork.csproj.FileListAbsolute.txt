@@ -1,0 +1,15 @@
+c:\users\шулякд\source\repos\AnimationProgressBarHomeWork\AnimationProgressBarHomeWork\bin\Debug\AnimationProgressBarHomeWork.exe.config
+c:\users\шулякд\source\repos\AnimationProgressBarHomeWork\AnimationProgressBarHomeWork\bin\Debug\AnimationProgressBarHomeWork.exe
+c:\users\шулякд\source\repos\AnimationProgressBarHomeWork\AnimationProgressBarHomeWork\bin\Debug\AnimationProgressBarHomeWork.pdb
+c:\users\шулякд\source\repos\AnimationProgressBarHomeWork\AnimationProgressBarHomeWork\obj\Debug\AnimationProgressBarHomeWork.csprojAssemblyReference.cache
+c:\users\шулякд\source\repos\AnimationProgressBarHomeWork\AnimationProgressBarHomeWork\obj\Debug\MainWindow.g.cs
+c:\users\шулякд\source\repos\AnimationProgressBarHomeWork\AnimationProgressBarHomeWork\obj\Debug\App.g.cs
+c:\users\шулякд\source\repos\AnimationProgressBarHomeWork\AnimationProgressBarHomeWork\obj\Debug\AnimationProgressBarHomeWork_MarkupCompile.cache
+c:\users\шулякд\source\repos\AnimationProgressBarHomeWork\AnimationProgressBarHomeWork\obj\Debug\AnimationProgressBarHomeWork_MarkupCompile.lref
+c:\users\шулякд\source\repos\AnimationProgressBarHomeWork\AnimationProgressBarHomeWork\obj\Debug\MainWindow.baml
+c:\users\шулякд\source\repos\AnimationProgressBarHomeWork\AnimationProgressBarHomeWork\obj\Debug\AnimationProgressBarHomeWork.g.resources
+c:\users\шулякд\source\repos\AnimationProgressBarHomeWork\AnimationProgressBarHomeWork\obj\Debug\AnimationProgressBarHomeWork.Properties.Resources.resources
+c:\users\шулякд\source\repos\AnimationProgressBarHomeWork\AnimationProgressBarHomeWork\obj\Debug\AnimationProgressBarHomeWork.csproj.GenerateResource.cache
+c:\users\шулякд\source\repos\AnimationProgressBarHomeWork\AnimationProgressBarHomeWork\obj\Debug\AnimationProgressBarHomeWork.csproj.CoreCompileInputs.cache
+c:\users\шулякд\source\repos\AnimationProgressBarHomeWork\AnimationProgressBarHomeWork\obj\Debug\AnimationProgressBarHomeWork.exe
+c:\users\шулякд\source\repos\AnimationProgressBarHomeWork\AnimationProgressBarHomeWork\obj\Debug\AnimationProgressBarHomeWork.pdb
